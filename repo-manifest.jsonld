@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pallets-eco/flask-pydantic/commit/bc3fee46e680ce51bc8c32c71b3844dcd18bfd88",
       "git:hexsha": "bc3fee46e680ce51bc8c32c71b3844dcd18bfd88",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.14.0"
     },
     {
